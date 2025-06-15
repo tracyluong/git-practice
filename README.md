@@ -1,1 +1,1 @@
-# Git Practce Project
+# Git Practice Project
